@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "192903861884",
+    "project_id": "chatku-20f6f",
+    "storage_bucket": "chatku-20f6f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192903861884:android:7f0964e98216ca50345bf9",
+        "android_client_info": {
+          "package_name": "com.chatku"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJrLJvOrSI6viDUYaVxJcMVAKHlV1BYSY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
